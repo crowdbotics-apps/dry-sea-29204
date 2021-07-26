@@ -1,0 +1,3 @@
+rootProject.name = 'dry_sea_29204'
+apply from: file("../node_modules/@react-native-community/cli-platform-android/native_modules.gradle"); applyNativeModulesSettingsGradle(settings)
+include ':app'
